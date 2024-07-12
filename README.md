@@ -44,3 +44,10 @@ Enter one or multiple questions in the text area (one question per line).
 
 Click on the "Submit" button to generate answers and post them to Slack.
 
+# Files 
+
+slack_app.py: Main Streamlit application file.
+
+requirements.txt: List of Python dependencies.
+
+.env: Environment variables file (not included in the repository).
