@@ -21,16 +21,26 @@ SLACK_WEBHOOK_URL=your_slack_webhook_url
 1.Clone the repository:
 
 git clone https://github.com/Sreeraga03/AI-agent-PDF-QAbot-with-slack-integration.git
+
 cd repository_name
 
 2.pip install -r requirements.txt
+
 pip install -r requirements.txt
+
 3.Set up environment variables:
+
 Create a .env file in the root directory and add your Slack token, OpenAI API key, and Slack webhook URL.
+
 4.Run the Streamlit app:
+
 streamlit run slack_app.py
+
 5.Use the application:
+
 Upload a PDF file using the file uploader.
+
 Enter one or multiple questions in the text area (one question per line).
+
 Click on the "Submit" button to generate answers and post them to Slack.
 
