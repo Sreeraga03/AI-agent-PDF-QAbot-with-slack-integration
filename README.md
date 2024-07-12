@@ -19,8 +19,10 @@ SLACK_WEBHOOK_URL=your_slack_webhook_url
 
 # Usage
 1.Clone the repository:
+
 git clone https://github.com/Sreeraga03/AI-agent-PDF-QAbot-with-slack-integration.git
 cd repository_name
+
 2.pip install -r requirements.txt
 pip install -r requirements.txt
 3.Set up environment variables:
